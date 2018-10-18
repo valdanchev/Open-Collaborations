@@ -1,7 +1,8 @@
 # Open-Collaborations
-Open Collaborations is a Mozilla Open Leaders Project
 
-Hello. You have probably noticed that in many online communities and open kitchens nowadays, individual contributions and exchanges are openly available. Yet, in science, one of the first activity that historically opened for public scrutiny in modern societies, the very process of doing research collaboratively is nowadays a relatively closed system. 
+Hello. Open Collaborations is a Mozilla Open Leaders Project
+
+You have probably noticed that in many online communities and open kitchens nowadays, individual contributions and exchanges are openly available. Yet, in science, one of the first activity that was historically opened for public scrutiny in modern societies, the very process of doing research collaboratively is nowadays a relatively closed system. 
 
 Open Collaborations aims at bringing together people interested in using the potential of blockchain technology for fostering open distributed collaboration. 
 
